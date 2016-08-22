@@ -1,0 +1,7 @@
+body {
+    margin: 0;
+    padding: 300px;
+}
+header, section {
+    border-bottom: 5px solid lightgrey;
+}
